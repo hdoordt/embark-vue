@@ -1,0 +1,28 @@
+{
+  "name": "embark-vue",
+  "version": "0.0.1",
+  "description": "Embark extesion for Vue JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdoordt/embark-vue.git"
+  },
+  "keywords": [
+    "Embark",
+    "vue",
+    "webpack",
+    "build"
+  ],
+  "author": "Henk Dieter Oordt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdoordt/embark-vue/issues"
+  },
+  "homepage": "https://github.com/hdoordt/embark-vue#readme",
+  "dependencies": {
+    "webpack": "^4.17.1"
+  }
+}
